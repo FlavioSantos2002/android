@@ -47,8 +47,8 @@ nav>.botoes_menu{
     color: white;
     background-color: #3656484a;
     font-size: 1.22em;
-    padding-left: 1em;
-    padding-right: 1em;
+    padding-left: 4vmin;
+    padding-right: 4vmax;
     margin: -2px;
     padding-top: 0.79em;
     padding-bottom: 0.79em;
